@@ -28,7 +28,7 @@
 [^1]: 这是脚注的内容，在文章末尾. 
    	
 ######--------------------------图像相关---------------------------------
-![图像](https://ginsmile.github.com/Markdown_CN/github_log.png)
+![图像](https://raw.githubusercontent.com/GinSmile/Markdown_CN/master/github_logo.png)
 
 
 ######--------------------------列表相关---------------------------------
